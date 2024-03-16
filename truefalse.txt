@@ -1,0 +1,132 @@
+Programming Fundamentals:
+A variable can only hold one value during the execution of a program.
+0
+Comments in a program are ignored by the compiler or interpreter.
+1
+A loop is a control structure that allows a program to execute a set of statements repeatedly.
+1
+An array is a collection of variables of the same type that are accessed by a common name.
+1
+A function is a keyword used to declare variables in a program.
+0
+>
+Object Oriented Programming:
+Inheritance allows a class to inherit properties and methods from another class.
+1
+Encapsulation is a technique that exposes the implementation details of an object to the outside world.
+0
+Polymorphism allows an object to take on many forms.
+1
+A constructor is a method that is used to create an instance of a class.
+1
+Static methods and variables belong to the instance of a class.
+0
+>
+Introduction To Computing:
+A compiler is a program that converts source code into machine code.
+1
+A byte is the smallest unit of measurement for computer storage.
+0
+An algorithm is a set of well-defined steps for solving a problem.
+1
+The CPU is responsible for processing data in a computer.
+1
+An operating system is a program that provides a user interface for a computer.
+0
+>
+Data Structures:
+A stack is a data structure that follows the Last-In-First-Out (LIFO) principle.
+1
+A queue is a data structure that follows the First-In-First-Out (FIFO) principle.
+1
+A linked list is a data structure that consists of a sequence of nodes, each containing a reference to the next node.
+1
+A binary search tree is a data structure that allows for efficient searching, insertion, and deletion of nodes.
+1
+A hash table is a data structure that uses a hash function to map keys to values.
+1
+>
+Analysis of Algorithms:
+Big O notation is used to describe the upper bound of the running time of an algorithm.
+1
+A brute force algorithm is an algorithm that checks every possible solution to a problem.
+1
+Greedy algorithms always provide the optimal solution to a problem.
+0
+Dynamic programming is a technique that can be used to solve problems by breaking them down into smaller subproblems.
+1
+The running time of an algorithm is the amount of time it takes to execute on a specific input.
+1
+>
+Software Requirements Engineering:
+A use case is a description of how a system interacts with users or other systems to achieve a particular goal.
+1
+Requirements analysis is the process of determining the feasibility and scope of a project.
+0
+A requirements traceability matrix is a document that maps requirements to design, development, and testing artifacts.
+1
+User stories are a technique used in Agile development to capture high-level requirements from the perspective of end-users.
+1
+Requirements validation is the process of verifying that the requirements meet the stakeholders' needs and are feasible to implement.
+1
+>
+Research Methodology:
+A research question is a statement that defines the purpose of a research study.
+1
+A hypothesis is a tentative explanation for a phenomenon that is based on observations and previous research.
+1
+Sampling is the process of selecting a subset of individuals from a larger population for study.
+1
+A case study is a research method that involves an in-depth investigation of a particular individual, group, or situation.
+1
+Correlation analysis is a statistical technique used to examine the relationship between two or more variables.
+1
+>
+Big Data Analytics:
+Hadoop is a distributed computing framework that is used to process and store large datasets.
+1
+MapReduce is a programming model used for processing large datasets in parallel across a distributed computing cluster.
+1
+Spark is a fast and general-purpose cluster computing system for big data processing.
+1
+Machine learning is a field of study that focuses on the development of algorithms that can learn from and make predictions on data.
+1
+Data warehousing is the process of collecting and managing data from a variety of sources in order to provide insights for business decision-making.
+1
+>
+Artificial Intelligence:
+An artificial neural network is a computational model inspired by the structure and function of the human brain.
+1
+Natural Language Processing (NLP) is a field of study focused on the interaction between computers and human languages.
+1
+Deep learning is a subfield of machine learning that uses artificial neural networks with multiple layers to model and solve complex problems.
+1
+Reinforcement learning is a type of machine learning where an agent learns to make decisions by interacting with an environment and receiving rewards or penalties for its actions.
+1
+Genetic algorithms are a type of optimization algorithm inspired by the process of natural selection.
+1
+>
+Deep Learning:
+Convolutional Neural Networks (CNNs) are a type of neural network that are commonly used in image recognition tasks.
+1
+Recurrent Neural Networks (RNNs) are a type of neural network that are commonly used in natural language processing tasks.
+1
+Transfer learning is a technique that involves reusing a pre-trained neural network for a different but related task.
+1
+Dropout is a regularization technique used in deep learning to prevent overfitting.
+1
+Gradient descent is an optimization algorithm used to train neural networks by minimizing the error between predicted and actual outputs.
+1
+>
+Digital Image Processing:
+Image segmentation is the process of dividing an image into multiple segments or regions to simplify analysis.
+1
+Histogram equalization is a technique used to enhance the contrast of an image by redistributing pixel values.
+1
+Morphological operations are a set of image processing operations based on the shape and size of objects in an image.
+1
+Edge detection is a process of identifying sharp changes in intensity in an image that correspond to object boundaries.
+1
+Fourier transform is a mathematical technique used to transform an image from the spatial domain to the frequency domain.
+1
+>
